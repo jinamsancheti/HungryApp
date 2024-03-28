@@ -1,0 +1,6 @@
+54674,Pasta,Sandwich,Dosa,Dal,Sandwich,Dosa,Naan,Sandwich,Dosa,Paneer,Paneer,Dosa
+54965,Mushroom,Fries,Naan,Burrito,Fries,Pizza,Pizza,Fries,Fries,Pizza,Naan,Pasta
+54789,Vada,Paneer,Fries,Vada,Vada,Fries,Vada,Paneer,Vada,Paneer,Vada,Dal
+78965,Idli,Rice,Paneer,Idli,Rice,Idli,Idli,Idli,Rice,Paneer,Naan
+75564,Burger,Maggie,Maggie,Dal,Burger,Burger,Rice,Burger,Burger,Maggie
+87549,Taco,Idli,Rassam,Naan,Dal,Rassam,Taco,Rassam,Taco,Rassam,Dal

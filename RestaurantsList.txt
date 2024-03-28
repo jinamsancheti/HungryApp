@@ -1,0 +1,6 @@
+HideOut,Cafe,IT PARK,Continental,50,OutdoorSeating,Pizza|Maggie|Burger|Fries|Sandwich
+Illusions,Pub,AMBAZARI,Italian,30,DJ|Photobooth|AC,Cheese Chilly Toast|Chicken Sandwich|Pasta|Mushroom Omelette
+Roast,Cafe,SADAR,NorthIndian,16,Live Music|Spacious,Paneer Tikka|Paneer|Mushroom|Dal|Rice|Naan
+TacoBell,Restaurant,Sitabuldi,Mexican,15,OutdoorSitting,Burrito|Fiesta TacoMexi Wrap|Mexican Paneer|Taco
+Tanjore,Restaurant,Itwari,SouthIndian,20,AirConditioner|Live Music,Dosa|Vada|Idli|Rassam|Uttappam
+Courtyard,Food Court,AMBAZARI,Continental,100,Live Music,OutdoorSeating,French Fries|Chickpea Soup|Burger|Bean Salad
