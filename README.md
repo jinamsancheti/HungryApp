@@ -1,4 +1,4 @@
-# FOOD-ORDERING-APP
+# HungryApp
 
 
 It is a console based application designed to facilitate the discovery and ordering of food from restaurants. It allows users to search for restaurants based on various criterias like area, speciality and the type of food and then order that food accordingly. 
