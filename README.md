@@ -2,7 +2,7 @@
 
 
 
-It is a console-based application designed to facilitate the discovery and ordering of food from restaurants. It allows users to search for restaurants based on various criteria like area, speciality and type of food and then order that food accordingly.
+It is a console-based application designed to facilitate the discovery and ordering of food from restaurants. It allows users to search for restaurants based on various criteria like area, speciality and type of food and then order that food accordingly. 
 
 
 My motive for developing HungryApp is to enhance the efficiency of searching through restaurants and to strengthen my understanding of data structures by applying them in a real-world project.
